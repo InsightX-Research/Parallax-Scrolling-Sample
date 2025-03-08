@@ -8,7 +8,7 @@ body, html {
 }
 
 .parallax {
-    background-image: url('https://via.placeholder.com/1920x1080');
+    background-image: url('https://imgs.search.brave.com/cPOUSAuEYEZw3tqmk9eNfnxdNRl9RyicN7ioLfZiC_c/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1waG90by9w/aW5rLWZhYnJpYy10/ZXh0dXJlXzUzODc2/LTk0MDI2LmpwZz9z/ZW10PWFpc19oeWJy/aWQ');
     height: 100vh;
     background-attachment: fixed;
     background-position: center;
